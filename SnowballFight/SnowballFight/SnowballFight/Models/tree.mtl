@@ -1,0 +1,37 @@
+# Blender MTL File: 'tree.blend'
+# Material Count: 3
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.027972 0.008233 0.000000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka C:\Users\dogus\Documents\Visual Studio 2017\Projects\SnowballFight\SnowballFight\Textures\wood.jpg
+map_Kd C:\Users\dogus\Documents\Visual Studio 2017\Projects\SnowballFight\SnowballFight\Textures\wood.jpg
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000750 0.027972 0.000000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka C:\Users\dogus\Documents\Visual Studio 2017\Projects\SnowballFight\SnowballFight\Textures\green.PNG
+map_Kd C:\Users\dogus\Documents\Visual Studio 2017\Projects\SnowballFight\SnowballFight\Textures\green.PNG
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka C:\Users\dogus\Documents\Visual Studio 2017\Projects\SnowballFight\SnowballFight\Textures\snow_terrain.jpg
+map_Kd C:\Users\dogus\Documents\Visual Studio 2017\Projects\SnowballFight\SnowballFight\Textures\snow_terrain.jpg
+snow_terrain.jpg
+snow_terrain.jpg
